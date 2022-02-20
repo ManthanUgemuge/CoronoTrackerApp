@@ -1,3 +1,3 @@
 # CoronaTrackerApp
-Corona Tracker App Python
+Corona Tracker App is a Python Project.
 
