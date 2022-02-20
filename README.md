@@ -1,3 +1,3 @@
 # CoronaTrackerApp
-Corona Tracker APp using Python
+Corona Tracker App Python
 
