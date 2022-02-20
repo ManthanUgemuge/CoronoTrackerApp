@@ -7,6 +7,11 @@ I created a GUI using tkinter and API provides corona updates after every 10 min
 <a target="_blank" href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></img></a>
 
 
+- Download or clone the repository Website : 
+
+```
+https://github.com/ManthanUgemuge/PasswordGenerator.git
+```
 
 ## Contributing
 Pull requests are welcome, feel free to ```fork``` this repo.
