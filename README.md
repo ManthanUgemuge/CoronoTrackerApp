@@ -5,3 +5,11 @@ I created a GUI using tkinter and API provides corona updates after every 10 min
 
 ## Tech Stacks Used
 <a target="_blank" href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></img></a>
+
+
+
+## Contributing
+Pull requests are welcome, feel free to ```fork``` this repo.
+
+## License
+This project is open-sourced under the [MIT license]().
