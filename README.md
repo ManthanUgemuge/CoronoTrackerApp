@@ -11,7 +11,6 @@ I created a GUI using tkinter and API provides corona updates after every 10 min
 ## How to use Project
 
 - Download or clone the repository Website : 
-
 ```
 https://github.com/ManthanUgemuge/CoronaTrackerApp.git
 ```
