@@ -16,6 +16,10 @@ I created a GUI using tkinter and API provides corona updates after every 10 min
 https://github.com/ManthanUgemuge/CoronaTrackerApp.git
 ```
 
+[![Download zip](https://custom-icon-badges.herokuapp.com/badge/-Download-navy?style=for-the-badge&logo=download&logoColor=white "Download zip")]() 
+[![Live Demo](https://custom-icon-badges.herokuapp.com/badge/-Live-brightgreen?style=for-the-badge&logo=eye&logoColor=white "Live Demo")]()
+
+
 - Code : [Preview](https://raw.githubusercontent.com/ManthanUgemuge/CoronaTrackerApp/main/Corona%20Tracker%20App.py)
 
 ## Contributing
